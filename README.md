@@ -1,1 +1,3 @@
 # Pixel-Bugs
+
+pip install .
